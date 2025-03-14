@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 
 
-## 🚀 Proceso de construcción
+## 🚀 Proceso de construcción del Front Weather y del Backend Weather API
 
 Este proyecto ha sido construido utilizando varias herramientas de inteligencia artificial que me han ayudado a lo largo del desarrollo.
 

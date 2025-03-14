@@ -5,7 +5,7 @@ Este proyecto utiliza un entorno virtual de Python para gestionar sus dependenci
 ---
 
 ## ✅ Requisitos previos
-- Python 3.x instalado.
+- Python 3.17.7 instalado.
 - `pip` instalado.
 
 ---

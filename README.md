@@ -7,6 +7,9 @@ Este proyecto utiliza un entorno virtual de Python para gestionar sus dependenci
 ## ✅ Requisitos previos
 - Python 3.17.7 instalado.
 - `pip` instalado.
+- Clonar el proyecto
+- Descargar la rama main2 (los cambios se encuentran aquí)
+- Nota: Se subió el .env con la información, no necesita modificarse a menos que la clave de weather caduque.
 
 ---
 
